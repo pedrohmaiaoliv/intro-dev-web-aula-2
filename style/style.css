@@ -1,0 +1,30 @@
+#container{
+    width:700px;
+    border:1px solid #000000;
+    margin: 0 auto;
+}
+nav {
+    border:1px solid #000000;
+    overflow:auto;
+    margin-bottom:20px;
+    background:#ae00ff
+}
+nav ul li a {
+    text-decoration:none;
+    font-family:Verdana;
+    color: #ffffff;
+    font-weight:700;
+     
+}
+
+nav ul li a:hover {
+    color: #fff201;
+       
+}
+
+nav ul li {
+    list-style:none;
+    float:left;
+    margin-right:20px;
+    
+}
